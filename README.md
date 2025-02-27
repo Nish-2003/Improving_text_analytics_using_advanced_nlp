@@ -12,7 +12,7 @@ This project leverages advanced NLP techniques to improve text data quality for 
 ## 📥 Installation  
 1. *Clone the repository*:  
    bash  
-   git clone https://github.com/prajnashankarimn/Text_Analytics.git
+   git clone https://github.com/Nish-2003/Improving_text_analytic_using_advanced_nlp.git
    
 2. **Navigate to the project directory**:  
    bash  
